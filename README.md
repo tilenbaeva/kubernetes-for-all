@@ -1,4 +1,6 @@
 #KOPS
+
+
 CREATE CLUSTER
 1. create hosted zone “terraformaiza.com” .  (in AWS console)
 2. aws s3 mb s3://terraformaiza.com .  (create s3 bucket)
